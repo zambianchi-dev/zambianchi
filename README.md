@@ -10,7 +10,7 @@
 ## 🧠 Sobre mim
 
 Sou um desenvolvedor front-end iniciando minha jornada do absoluto zero.  
-Atualmente curso **Análise e Desenvolvimento de Sistemas** na **Faculdade VINCIT** e trabalho na **Alux Growth** como dev front-end.
+Atualmente curso **Análise e Desenvolvimento de Sistemas** na **Faculdade VINCIT** e trabalho na **Allux Growth** como dev front-end.
 
 Criei o perfil [@zambianchi.dev](https://instagram.com/zambianchi.dev) no Instagram pra mostrar minha jornada real, errando, aprendendo e evoluindo — sem glamurizar.
 
